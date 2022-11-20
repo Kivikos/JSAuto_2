@@ -1,0 +1,32 @@
+{
+  "name": "jsauto_2",
+  "version": "1.0.0",
+  "description": "my first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kivikos/JSAuto_2.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Konstantin Voytenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kivikos/JSAuto_2/issues"
+  },
+  "homepage": "https://github.com/Kivikos/JSAuto_2#readme",
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.5.1",
+    "eslint-plugin-promise": "^6.1.1"
+  },
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}
